@@ -35,7 +35,7 @@ library
       aeson >= 1.4
     , base >= 4.9 && < 5
     , base16-bytestring >= 1.0
-    , bytestring >= 0.10
+    , bytestring >= 0.11
     , case-insensitive >= 1.2
     , containers >= 0.6
     , http-client >= 0.5
